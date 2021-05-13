@@ -1,0 +1,1 @@
+(self.webpackChunkhackatalk_website=self.webpackChunkhackatalk_website||[]).push([[8331],{4823:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/hackatalk/blog/tags","slug":"react-navigation","name":"react-navigation","count":1,"permalink":"/hackatalk/blog/tags/react-navigation"}')}}]);

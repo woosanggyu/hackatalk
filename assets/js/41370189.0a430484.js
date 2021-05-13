@@ -1,0 +1,1 @@
+(self.webpackChunkhackatalk_website=self.webpackChunkhackatalk_website||[]).push([[425],{2775:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/hackatalk/blog/tags","slug":"setup","name":"setup","count":1,"permalink":"/hackatalk/blog/tags/setup"}')}}]);

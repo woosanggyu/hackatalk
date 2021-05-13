@@ -1,0 +1,1 @@
+(self.webpackChunkhackatalk_website=self.webpackChunkhackatalk_website||[]).push([[8023],{9372:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/hackatalk/blog/tags","slug":"migration","name":"migration","count":2,"permalink":"/hackatalk/blog/tags/migration"}')}}]);
