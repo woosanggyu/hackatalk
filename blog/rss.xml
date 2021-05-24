@@ -4,9 +4,16 @@
         <title>HackaTalk Blog</title>
         <link>https://website.hackatalk.dev/blog</link>
         <description>HackaTalk Blog</description>
-        <lastBuildDate>Sun, 12 Jul 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WeHack Announcement]]></title>
+            <link>https://website.hackatalk.dev/blog/Announcing WeHack</link>
+            <guid>Announcing WeHack</guid>
+            <pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[WeHack hackathon is comming in July 1st at 7:00 PM(KST).]]></description>
+        </item>
         <item>
             <title><![CDATA[Setup postgresql for prisma2]]></title>
             <link>https://website.hackatalk.dev/blog/setup-postgresql-prisma2</link>
